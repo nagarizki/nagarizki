@@ -1,6 +1,6 @@
 # 👋
 
-- 🌱 I’m currently learning [GO](https://go.dev/)
+- 🌱 I’m currently learning [*GO*](https://go.dev/)
 
 <!--
 
